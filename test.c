@@ -1,7 +1,7 @@
 #include "stdio.h"
 #include "stdlib.h"
 int main(){
-    int x=0;
+    int x=0,y=0;
     printf("Hello\n");
     scanf("%d",&x);
     printf("x = %d\n",x);
@@ -12,4 +12,7 @@ int main(){
         
     system("pause");
     return 0;
+
+
+
 }
